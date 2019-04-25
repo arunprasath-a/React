@@ -1,0 +1,35 @@
+
+
+body{
+  background-image: url("./assets/loginpage.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+.heading1{
+  text-align: center;
+}
+
+.inputDiv{
+  padding: 10px;
+  margin: 10px;
+}
+.submitDiv{
+  margin: 10px;
+  padding: 8px;
+}
+
+.passwordLabel{
+  margin-left: 10px;
+}
+
+.logo-div{
+  width: 30%;
+}
+
+.mainDiv{
+  position: relative;
+  text-align: -webkit-center;
+}
+
+
